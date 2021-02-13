@@ -1,0 +1,3 @@
+/Users/fanivia/Desktop/exam-rank-03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fanivia/Desktop/exam-rank-03/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fanivia/Desktop/exam-rank-03/cmake-build-debug/CMakeFiles/untitled.dir
